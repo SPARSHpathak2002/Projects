@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Sparsh.Pathak\\angular&dotnet\\UrlShortner\\wwwroot\\dashboard\\index.html",
+      "PackagePath": "staticwebassets\\dashboard\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.UrlShortner.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.UrlShortner.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.UrlShortner.props",
+      "PackagePath": "build\\UrlShortner.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.UrlShortner.props",
+      "PackagePath": "buildMultiTargeting\\UrlShortner.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.UrlShortner.props",
+      "PackagePath": "buildTransitive\\UrlShortner.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

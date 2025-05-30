@@ -1,0 +1,2 @@
+C:\Users\Sparsh.Pathak\angular&dotnet\UrlShortner\wwwroot\dashboard\index.html
+wwwroot\dashboard\index.html

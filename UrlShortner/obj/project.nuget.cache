@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tSvKi/jH9IM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sparsh.Pathak\\angular&dotnet\\UrlShortner\\UrlShortner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sparsh.Pathak\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.5\\microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
+    "C:\\Users\\Sparsh.Pathak\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\Sparsh.Pathak\\.nuget\\packages\\scalar.aspnetcore\\2.4.5\\scalar.aspnetcore.2.4.5.nupkg.sha512"
+  ],
+  "logs": []
+}

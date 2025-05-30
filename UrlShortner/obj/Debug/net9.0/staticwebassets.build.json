@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "Hash": "aVQXKaDf9d6qYoyZoxm1Gz846zcM7NqDvULJ4c97caM=",
+  "Source": "UrlShortner",
+  "BasePath": "_content/UrlShortner",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "UrlShortner\\wwwroot",
+      "Source": "UrlShortner",
+      "ContentRoot": "C:\\Users\\Sparsh.Pathak\\angular&dotnet\\UrlShortner\\wwwroot\\",
+      "BasePath": "_content/UrlShortner",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Sparsh.Pathak\\angular&dotnet\\UrlShortner\\obj\\Debug\\net9.0\\compressed\\443x5c3v72-s48bnyugi1.gz",
+      "SourceId": "UrlShortner",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Sparsh.Pathak\\angular&dotnet\\UrlShortner\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/UrlShortner",
+      "RelativePath": "dashboard/index#[.{fingerprint=s48bnyugi1}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Sparsh.Pathak\\angular&dotnet\\UrlShortner\\wwwroot\\dashboard\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "l6xt5rml8n",
+      "Integrity": "PV4f7heKmCYp7GshFM7kmbyZ481kmctLvbtnW8cXY6Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Sparsh.Pathak\\angular&dotnet\\UrlShortner\\wwwroot\\dashboard\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Sparsh.Pathak\\angular&dotnet\\UrlShortner\\wwwroot\\dashboard\\index.html",
+      "SourceId": "UrlShortner",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Sparsh.Pathak\\angular&dotnet\\UrlShortner\\wwwroot\\",
+      "BasePath": "_content/UrlShortner",
+      "RelativePath": "dashboard/index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s48bnyugi1",
+      "Integrity": "7BxtBunl3o8EeO0p4eEpBqGuGvutLVk4dQQzWDvgh3Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dashboard\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "dashboard/index.html",
+      "AssetFile": "C:\\Users\\Sparsh.Pathak\\angular&dotnet\\UrlShortner\\obj\\Debug\\net9.0\\compressed\\443x5c3v72-s48bnyugi1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001464128843"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "682"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PV4f7heKmCYp7GshFM7kmbyZ481kmctLvbtnW8cXY6Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:51:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"7BxtBunl3o8EeO0p4eEpBqGuGvutLVk4dQQzWDvgh3Y=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7BxtBunl3o8EeO0p4eEpBqGuGvutLVk4dQQzWDvgh3Y="
+        }
+      ]
+    },
+    {
+      "Route": "dashboard/index.html",
+      "AssetFile": "C:\\Users\\Sparsh.Pathak\\angular&dotnet\\UrlShortner\\wwwroot\\dashboard\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1210"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7BxtBunl3o8EeO0p4eEpBqGuGvutLVk4dQQzWDvgh3Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:51:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7BxtBunl3o8EeO0p4eEpBqGuGvutLVk4dQQzWDvgh3Y="
+        }
+      ]
+    },
+    {
+      "Route": "dashboard/index.html.gz",
+      "AssetFile": "C:\\Users\\Sparsh.Pathak\\angular&dotnet\\UrlShortner\\obj\\Debug\\net9.0\\compressed\\443x5c3v72-s48bnyugi1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "682"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PV4f7heKmCYp7GshFM7kmbyZ481kmctLvbtnW8cXY6Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:51:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PV4f7heKmCYp7GshFM7kmbyZ481kmctLvbtnW8cXY6Y="
+        }
+      ]
+    },
+    {
+      "Route": "dashboard/index.s48bnyugi1.html",
+      "AssetFile": "C:\\Users\\Sparsh.Pathak\\angular&dotnet\\UrlShortner\\obj\\Debug\\net9.0\\compressed\\443x5c3v72-s48bnyugi1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001464128843"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "682"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PV4f7heKmCYp7GshFM7kmbyZ481kmctLvbtnW8cXY6Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:51:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"7BxtBunl3o8EeO0p4eEpBqGuGvutLVk4dQQzWDvgh3Y=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s48bnyugi1"
+        },
+        {
+          "Name": "label",
+          "Value": "dashboard/index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7BxtBunl3o8EeO0p4eEpBqGuGvutLVk4dQQzWDvgh3Y="
+        }
+      ]
+    },
+    {
+      "Route": "dashboard/index.s48bnyugi1.html",
+      "AssetFile": "C:\\Users\\Sparsh.Pathak\\angular&dotnet\\UrlShortner\\wwwroot\\dashboard\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1210"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7BxtBunl3o8EeO0p4eEpBqGuGvutLVk4dQQzWDvgh3Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:51:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s48bnyugi1"
+        },
+        {
+          "Name": "label",
+          "Value": "dashboard/index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7BxtBunl3o8EeO0p4eEpBqGuGvutLVk4dQQzWDvgh3Y="
+        }
+      ]
+    },
+    {
+      "Route": "dashboard/index.s48bnyugi1.html.gz",
+      "AssetFile": "C:\\Users\\Sparsh.Pathak\\angular&dotnet\\UrlShortner\\obj\\Debug\\net9.0\\compressed\\443x5c3v72-s48bnyugi1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "682"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PV4f7heKmCYp7GshFM7kmbyZ481kmctLvbtnW8cXY6Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 08:51:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s48bnyugi1"
+        },
+        {
+          "Name": "label",
+          "Value": "dashboard/index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PV4f7heKmCYp7GshFM7kmbyZ481kmctLvbtnW8cXY6Y="
+        }
+      ]
+    }
+  ]
+}
